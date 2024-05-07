@@ -1,8 +1,31 @@
+* {
+  background-size: contain;
+}
+
+
 blockquote {
-    border-left-style: solid;
-    border-left-width: 5px;
-    border-left-color: gray;
-    background-color: #F2F3F4;
-    padding-left: 2em;
-    padding-right: 2em;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: gray;
+  background-color: #F2F3F4;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.portrait {
+  display: inline-block;
+  height: 500px;
+}
+
+.portrait img {
+  height: 100%;
+}
+
+.landscape {
+  display: inline-block;
+  width: 500px;
+}
+
+.landscape img {
+  width: 100%;
 }
