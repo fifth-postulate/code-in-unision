@@ -16,6 +16,10 @@ background-image: url(image/energy-hub.png)
 .landscape[![The Alliander Logo](image/alliander.png)]
 
 ---
+
+![I am not associated with Unison](image/disclaimer.png)
+
+---
 layout: true
 class: top, left
 
