@@ -21,6 +21,16 @@
 * `test` emphasis on cached result
 * Create test
 * `add`
-* `test` agin
+* `test` again
 * Change definition of test
 * `update`
+* `ui`
+
+## Demo 3
+* Walkthrough code
+* Watch for `towards`
+* edit `towards`
+* update
+* reload
+* refactor
+* update

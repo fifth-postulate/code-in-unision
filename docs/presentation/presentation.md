@@ -74,21 +74,42 @@ background-image: url(image/energy-hub.png)
 
 ---
 
-## hash(𐇲) ↤ #37
+## 𐇲 ↤ #37
 
 ---
 
 ## Demo
 
 ---
-layout: true
-class: top, left
 
-### Unison Language
+## <s>&nbsp;🗎&nbsp;</s>
 
 ---
 
-## Functions
+## 𐇲
+
+---
+
+## hash(𐇲) ↦ 𐇲
+
+---
+
+![xkcd: Compiling](https://imgs.xkcd.com/comics/compiling.png)
+
+---
+
+![xkcd: Sharing](https://imgs.xkcd.com/comics/sharing.png)
+
+---
+
+![xkcd: Protocol](https://imgs.xkcd.com/comics/protocol.png)
+
+---
+
+## Demo
+
+---
+background-image: url(image/signposts.jpg)
 
 ---
 
